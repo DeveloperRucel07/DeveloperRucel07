@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Developer Rucel</h1>
-<h3 align="center">A passionate frontend developer live in Germany</h3>
+<h3 align="center">A passionate software developer live in Germany</h3>
 
 
 

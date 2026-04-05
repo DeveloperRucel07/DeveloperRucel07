@@ -1,5 +1,6 @@
 # 💫 About Me:
-🚀 Hello! I' Rucel Frontend Developer<br><br>I'm currently learning Backend developement with Python and Django
+🚀 Hello! I' Rucel Frontend and Backend developement with Python and Django.<br><br>
+I am interested in AI, data, and digital and data security.
 
 
 ## 🌐 Socials:

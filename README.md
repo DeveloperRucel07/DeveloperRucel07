@@ -1,6 +1,6 @@
 # 💫 About Me:
 🚀 Hello! I' Rucel Frontend and Backend developement with Python and Django.<br><br>
-I am interested in AI, data, and digital and data security.
+I am interested in AI, data, digital and data security.
 
 
 ## 🌐 Socials:
